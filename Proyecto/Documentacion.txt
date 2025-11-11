@@ -1,0 +1,17 @@
+1. Introducción
+2. Descripción Del Problema
+3. Análisis del problema planteado
+4. Identificación de datos disponibles
+5. Variables
+6. Constantes
+7. Identificar los procesos necesarios para su resolución
+8. Identificar las restricciones que aplican
+9. Resultados esperados
+10. Otra información que el grupo considere relevante
+11. Diseño de la Solución
+12. Diagrama de Flujo de la solución del problema
+13. Desarrollo del pseudocódigo correspondiente
+14. Propuesta de Diseño para la solución del problema
+15. Algoritmo desarrollado
+16. Conclusión
+17. Bibliografía
